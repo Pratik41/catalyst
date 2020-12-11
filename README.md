@@ -1,1 +1,1 @@
-"# catalyst" 
+Aptitude Preparation App - Catalyst
